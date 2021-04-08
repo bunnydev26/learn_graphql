@@ -1,2 +1,2 @@
 graphene-django==2.5.0
-Django==2.2.4
+Django==2.2.20
